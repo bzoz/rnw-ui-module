@@ -7,7 +7,15 @@ cd TestApp
 npx react-native-windows-init --overwrite
 ```
 Test if app builds:
-```
+```console
 npx react-native run-windows
 ```
 
+Init the module:
+```console
+npx create-react-native-module --module-name "MyLibrary" MyLibrary
+cd MyLibrary
+yarn install
+yarn upgrade react@16.13.1 --dev
+yarn upgrade react-native@0.63.2 --dev
+```
