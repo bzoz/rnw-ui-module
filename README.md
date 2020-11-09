@@ -26,3 +26,5 @@ Do [Adding React Native Windows to the Visual Studio Solution](https://microsoft
 
 Do [Referencing React Native Windows in your Project
 ](https://microsoft.github.io/react-native-windows/docs/native-modules-setup#referencing-react-native-windows-in-your-project) step of the docs.
+
+Do [Making your module ready for consumption in an app](https://microsoft.github.io/react-native-windows/docs/native-modules-setup#making-your-module-ready-for-consumption-in-an-app) step of the docs.
