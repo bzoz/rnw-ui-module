@@ -6,9 +6,9 @@
     <CppWinRTRootNamespaceAutoMerge>true</CppWinRTRootNamespaceAutoMerge>
     <CppWinRTGenerateWindowsMetadata>true</CppWinRTGenerateWindowsMetadata>
     <MinimalCoreWin>true</MinimalCoreWin>
-    <ProjectGuid>{411f8b90-c499-4157-ad14-f50bbcce1bb9}</ProjectGuid>
+    <ProjectGuid>{EF58DB40-82AB-4DC1-A1A5-731EF7C5A260}</ProjectGuid>
     <ProjectName>MyLibraryCPP</ProjectName>
-    <RootNamespace>MyLibraryCPP</RootNamespace>
+    <RootNamespace>NativeModuleSample</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
     <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
     <AppContainerApplication>true</AppContainerApplication>
